@@ -1,0 +1,28 @@
+#################
+## Coocox
+#################
+
+# Build results
+Debug/
+Release/
+
+# CDT-specific
+.cproject
+.project
+.pbxproj
+
+# Others
+[Bb]in
+[Oo]bj
+
+
+
+############
+## Windows
+############
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
